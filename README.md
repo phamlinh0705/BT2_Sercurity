@@ -97,11 +97,12 @@ CERT_FILE = "mycert.pem"
 
 Sau khi chạy code py, chữ kí từ ảnh png sẽ được đưa vào file chukiso.pdf và cho ra file signed_output.pdf đã được kí:
 
-<img width="1539" height="917" alt="image" src="https://github.com/user-attachments/assets/3aa75b5a-70aa-4015-a942-9293d65c5924" />
+<img width="814" height="493" alt="image" src="https://github.com/user-attachments/assets/b7a79e34-9d46-4425-9ae5-1e06b21f5c8e" />
 
 Tạo 1 file py để kiểm tra xác thực chữ kí:
 
-<img width="930" height="590" alt="image" src="https://github.com/user-attachments/assets/307ddcf0-5393-4a9b-8eb3-74e1953c958e" />
+<img width="1550" height="716" alt="image" src="https://github.com/user-attachments/assets/1c2e6f9e-5439-4bff-8aca-f3b2bf16e9a0" />
 
-<img width="932" height="535" alt="image" src="https://github.com/user-attachments/assets/fe9b5add-067d-4bdc-9cab-ba67aecc33fb" />
+<img width="1506" height="635" alt="image" src="https://github.com/user-attachments/assets/5a668f40-ed6c-4bd0-a016-dd3d566d48ef" />
+
 
