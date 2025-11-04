@@ -1,0 +1,16 @@
+=== KẾT QUẢ XÁC THỰC CHỮ KÝ PDF ===
+Thời gian kiểm tra: 04/11/2025 22:39:09
+Tệp kiểm tra: signed_output.pdf
+
+🔍 Chữ ký: Signature1
+Trạng thái tổng quát: INTACT:UNTRUSTED,UNTOUCHED
+✅ PDF không bị thay đổi sau khi ký.
+⚠️ Chứng chỉ không thuộc CA tin cậy hoặc tự ký.
+⚠️ Không có thông tin OCSP/CRL.
+⚠️ Không thể kiểm tra timestamp.
+Chi tiết thuật toán:
+ - Thuật toán ký: rsassa_pkcs1v15
+ - Thuật toán hash: sha256
+Người ký: Organizational Unit: KTP58, Organization: TNUT, Common Name: PhamKhacLinh
+
+=== KẾT THÚC XÁC THỰC ===
